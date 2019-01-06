@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{87CB425F-4732-43C5-8714-2CFA3188508A}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinForms-CardViewCustomRenderer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4DA9CBF-170B-441C-AEFF-5F4291F473E6" />
+  <MonoDevelop.Ide.ItemProperties.XamarinForms-CardViewCustomRenderer.Android PreferredExecutionTarget="Android.flutter_emulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms-CardViewCustomRenderer.iOS/CustomCardViewRenderer.cs">
+    <Files>
+      <File FileName="XamarinForms-CardViewCustomRenderer/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinForms-CardViewCustomRenderer/MainPage.xaml" Line="7" Column="44" />
+      <File FileName="XamarinForms-CardViewCustomRenderer.Android/CustomCardViewRenderer.cs" Line="8" Column="3" />
+      <File FileName="XamarinForms-CardViewCustomRenderer.Android/MainActivity.cs" Line="22" Column="1" />
+      <File FileName="XamarinForms-CardViewCustomRenderer/Controls/CardView.cs" Line="10" Column="10" />
+      <File FileName="XamarinForms-CardViewCustomRenderer.iOS/CustomCardViewRenderer.cs" Line="6" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinForms-CardViewCustomRenderer" expanded="True">
+            <Node name="XamarinForms-CardViewCustomRenderer" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinForms-CardViewCustomRenderer.Android" expanded="True" />
+            <Node name="XamarinForms-CardViewCustomRenderer.iOS" expanded="True">
+              <Node name="CustomCardViewRenderer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

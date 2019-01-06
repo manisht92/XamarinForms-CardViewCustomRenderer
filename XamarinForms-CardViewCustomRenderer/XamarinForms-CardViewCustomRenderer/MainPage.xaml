@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:local="clr-namespace:XamarinForms_CardViewCustomRenderer" Padding="20,60,20,20"
+              xmlns:controls="clr-namespace:XamarinFormsCardViewCustomRenderer.Controls"
+              x:Class="XamarinForms_CardViewCustomRenderer.MainPage">
+    <StackLayout>
+        <controls:CardView HasShadow="true" ShadowRadius="20" OutlineColor="Black">
+            <StackLayout Padding="30" HeightRequest="200" HorizontalOptions="FillAndExpand">
+                <Label Text="Hi"/>
+            </StackLayout>
+        </controls:CardView>
+        <!--<Frame IsClippedToBounds="true" HasShadow="true" BackgroundColor="White">
+            <Frame.OutlineColor>
+                <OnPlatform x:TypeArguments="Color" Android="Gray" iOS="Gray" />
+            </Frame.OutlineColor>
+            <Frame.Margin>
+                <OnPlatform x:TypeArguments="Thickness" Android="7" iOS="7" />
+            </Frame.Margin>
+            <Frame.Padding>
+                <OnPlatform x:TypeArguments="Thickness" Android="5" iOS="5" />
+            </Frame.Padding>
+            <StackLayout Padding="20" HeightRequest="180">
+                <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </Frame>-->
+    </StackLayout>
+</ContentPage>
